@@ -1311,7 +1311,7 @@ Here's an awesome list of AI agents:
 
 ### AxonX
 <div><a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://img.shields.io/github/stars/FlowLLM-AI/AxonX?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/FlowLLM-AI">@FlowLLM-AI</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/jinliyl">@jinliyl</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/699">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/699">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/FlowLLM-AI">@FlowLLM-AI</a></p>
 <p>⚙️ Development Frameworks | 🔌 MCP Servers</p>
 
 <p>AxonX is a quantitative research harness that lets AI agents submit plugin-based data processing, factor analysis, model training, prediction, and backtesting tasks through CLI and MCP, then inspect execution status, logs, artifacts, and task lineage.</p>
