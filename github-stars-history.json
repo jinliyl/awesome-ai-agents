@@ -7,15 +7,33 @@
       "status": "active"
     },
     {
+      "repository": "0000f8/salt-mcp",
+      "date": "2026-10-04",
+      "stars": 1,
+      "status": "active"
+    },
+    {
       "repository": "100monkeys-ai/zaru-cli",
       "date": "2026-09-30",
       "stars": 1,
       "status": "active"
     },
     {
+      "repository": "100monkeys-ai/zaru-cli",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "101dotxyz/gpteam",
       "date": "2026-09-24",
       "stars": 1724,
+      "status": "active"
+    },
+    {
+      "repository": "1420079678-ctrl/agent-body",
+      "date": "2026-10-04",
+      "stars": 15,
       "status": "active"
     },
     {
@@ -31,6 +49,12 @@
       "status": "active"
     },
     {
+      "repository": "567-labs/instructor",
+      "date": "2026-10-04",
+      "stars": 13972,
+      "status": "active"
+    },
+    {
       "repository": "777genius/agent-teams-ai",
       "date": "2026-09-25",
       "stars": 2167,
@@ -43,6 +67,12 @@
       "status": "active"
     },
     {
+      "repository": "777genius/agent-teams-ai",
+      "date": "2026-10-04",
+      "stars": 2220,
+      "status": "active"
+    },
+    {
       "repository": "ace-li521/agent-platform",
       "date": "2026-09-25",
       "stars": 1,
@@ -51,6 +81,18 @@
     {
       "repository": "ace-li521/agent-platform",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "ace-li521/agent-platform",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "acekorneya/pok-agent",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -67,6 +109,12 @@
       "status": "active"
     },
     {
+      "repository": "aden-hive/hive",
+      "date": "2026-10-04",
+      "stars": 11091,
+      "status": "active"
+    },
+    {
       "repository": "agent-express-ai/agent-express",
       "date": "2026-09-25",
       "stars": 8,
@@ -75,6 +123,12 @@
     {
       "repository": "agent-express-ai/agent-express",
       "date": "2026-09-30",
+      "stars": 8,
+      "status": "active"
+    },
+    {
+      "repository": "agent-express-ai/agent-express",
+      "date": "2026-10-04",
       "stars": 8,
       "status": "active"
     },
@@ -91,6 +145,12 @@
       "status": "active"
     },
     {
+      "repository": "agent-field/agentfield",
+      "date": "2026-10-04",
+      "stars": 2607,
+      "status": "active"
+    },
+    {
       "repository": "agentguard-ai/tealtiger",
       "date": "2026-09-25",
       "stars": 33,
@@ -100,6 +160,12 @@
       "repository": "agentguard-ai/tealtiger",
       "date": "2026-09-30",
       "stars": 35,
+      "status": "active"
+    },
+    {
+      "repository": "agentguard-ai/tealtiger",
+      "date": "2026-10-04",
+      "stars": 36,
       "status": "active"
     },
     {
@@ -133,6 +199,12 @@
       "status": "active"
     },
     {
+      "repository": "agentops-ai/agentops",
+      "date": "2026-10-04",
+      "stars": 5881,
+      "status": "active"
+    },
+    {
       "repository": "agentops-ai/jaiqu",
       "date": "2026-09-24",
       "stars": 346,
@@ -151,6 +223,12 @@
       "status": "active"
     },
     {
+      "repository": "agentrhq/authsome",
+      "date": "2026-10-04",
+      "stars": 93,
+      "status": "active"
+    },
+    {
       "repository": "agents-squads/squads-cli",
       "date": "2026-09-25",
       "stars": 53,
@@ -163,6 +241,12 @@
       "status": "active"
     },
     {
+      "repository": "agents-squads/squads-cli",
+      "date": "2026-10-04",
+      "stars": 54,
+      "status": "active"
+    },
+    {
       "repository": "agentweave/cortex",
       "date": "2026-09-25",
       "stars": 12,
@@ -172,6 +256,12 @@
       "repository": "agentweave/cortex",
       "date": "2026-09-30",
       "stars": 12,
+      "status": "active"
+    },
+    {
+      "repository": "agentweave/cortex",
+      "date": "2026-10-04",
+      "stars": 13,
       "status": "active"
     },
     {
@@ -193,6 +283,12 @@
       "status": "active"
     },
     {
+      "repository": "agiresearch/aios",
+      "date": "2026-10-04",
+      "stars": 6445,
+      "status": "active"
+    },
+    {
       "repository": "agiresearch/openagi",
       "date": "2026-09-24",
       "stars": 2287,
@@ -208,6 +304,12 @@
       "repository": "agno-agi/agno",
       "date": "2026-09-30",
       "stars": 42391,
+      "status": "active"
+    },
+    {
+      "repository": "agno-agi/agno",
+      "date": "2026-10-04",
+      "stars": 42543,
       "status": "active"
     },
     {
@@ -247,6 +349,12 @@
       "status": "active"
     },
     {
+      "repository": "aider-ai/aider",
+      "date": "2026-10-04",
+      "stars": 49365,
+      "status": "active"
+    },
+    {
       "repository": "aigen-protocol/aigen-protocol",
       "date": "2026-09-25",
       "stars": 4,
@@ -255,6 +363,12 @@
     {
       "repository": "aigen-protocol/aigen-protocol",
       "date": "2026-09-30",
+      "stars": 5,
+      "status": "active"
+    },
+    {
+      "repository": "aigen-protocol/aigen-protocol",
+      "date": "2026-10-04",
       "stars": 5,
       "status": "active"
     },
@@ -277,6 +391,12 @@
       "status": "active"
     },
     {
+      "repository": "alexfleetcommander/agent-trust-stack-mcp",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "alexk-dev/golemcore-bot",
       "date": "2026-09-25",
       "stars": 40,
@@ -285,6 +405,12 @@
     {
       "repository": "alexk-dev/golemcore-bot",
       "date": "2026-09-30",
+      "stars": 41,
+      "status": "active"
+    },
+    {
+      "repository": "alexk-dev/golemcore-bot",
+      "date": "2026-10-04",
       "stars": 41,
       "status": "active"
     },
@@ -301,6 +427,12 @@
       "status": "active"
     },
     {
+      "repository": "allxsmith/bestax",
+      "date": "2026-10-04",
+      "stars": 12,
+      "status": "active"
+    },
+    {
       "repository": "anthropics/claude-agent-sdk-python",
       "date": "2026-09-25",
       "stars": 8163,
@@ -310,6 +442,18 @@
       "repository": "anthropics/claude-agent-sdk-python",
       "date": "2026-09-30",
       "stars": 8193,
+      "status": "active"
+    },
+    {
+      "repository": "anthropics/claude-agent-sdk-python",
+      "date": "2026-10-04",
+      "stars": 8213,
+      "status": "active"
+    },
+    {
+      "repository": "anus-dev/anus",
+      "date": "2026-10-04",
+      "stars": 6548,
       "status": "active"
     },
     {
@@ -331,6 +475,12 @@
       "status": "active"
     },
     {
+      "repository": "aporthq/aport-agent-guardrails",
+      "date": "2026-10-04",
+      "stars": 27,
+      "status": "active"
+    },
+    {
       "repository": "arcee-ai/mergekit",
       "date": "2026-09-24",
       "stars": 7370,
@@ -349,6 +499,12 @@
       "status": "active"
     },
     {
+      "repository": "arcee-ai/mergekit",
+      "date": "2026-10-04",
+      "stars": 7388,
+      "status": "active"
+    },
+    {
       "repository": "arian-gogani/nobulex-registry",
       "date": "2026-09-25",
       "stars": 1,
@@ -361,9 +517,21 @@
       "status": "active"
     },
     {
+      "repository": "arian-gogani/nobulex-registry",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "arize-ai/phoenix",
       "date": "2026-09-30",
       "stars": 11657,
+      "status": "active"
+    },
+    {
+      "repository": "arize-ai/phoenix",
+      "date": "2026-10-04",
+      "stars": 11701,
       "status": "active"
     },
     {
@@ -385,6 +553,12 @@
       "status": "active"
     },
     {
+      "repository": "assafelovic/gpt-researcher",
+      "date": "2026-10-04",
+      "stars": 29902,
+      "status": "active"
+    },
+    {
       "repository": "atomicbot-ai/atomic-agent",
       "date": "2026-09-25",
       "stars": 2502,
@@ -397,6 +571,12 @@
       "status": "active"
     },
     {
+      "repository": "atomicbot-ai/atomic-agent",
+      "date": "2026-10-04",
+      "stars": 2740,
+      "status": "active"
+    },
+    {
       "repository": "autohandai/code-cli",
       "date": "2026-09-25",
       "stars": 199,
@@ -406,6 +586,12 @@
       "repository": "autohandai/code-cli",
       "date": "2026-09-30",
       "stars": 200,
+      "status": "active"
+    },
+    {
+      "repository": "autohandai/code-cli",
+      "date": "2026-10-04",
+      "stars": 202,
       "status": "active"
     },
     {
@@ -427,6 +613,12 @@
       "status": "active"
     },
     {
+      "repository": "azeemkafridi/bulkpublish-api",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "baronmuh/synapse-messenger",
       "date": "2026-09-25",
       "stars": 1,
@@ -436,6 +628,12 @@
       "repository": "baronmuh/synapse-messenger",
       "date": "2026-09-30",
       "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "baronmuh/synapse-messenger",
+      "date": "2026-10-04",
+      "stars": 2,
       "status": "active"
     },
     {
@@ -457,6 +655,18 @@
       "status": "active"
     },
     {
+      "repository": "bengtsson78/genesis-accord-standard",
+      "date": "2026-10-04",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "benjaminledel/covey",
+      "date": "2026-10-04",
+      "stars": 4,
+      "status": "active"
+    },
+    {
       "repository": "berriai/litellm",
       "date": "2026-09-24",
       "stars": 59536,
@@ -475,9 +685,21 @@
       "status": "active"
     },
     {
+      "repository": "berriai/litellm",
+      "date": "2026-10-04",
+      "stars": 60109,
+      "status": "active"
+    },
+    {
       "repository": "bill10/agent-007",
       "date": "2026-09-30",
       "stars": 0,
+      "status": "active"
+    },
+    {
+      "repository": "bill10/agent-007",
+      "date": "2026-10-04",
+      "stars": 2,
       "status": "active"
     },
     {
@@ -489,6 +711,12 @@
     {
       "repository": "bindbrain/bindai",
       "date": "2026-09-30",
+      "stars": 6,
+      "status": "active"
+    },
+    {
+      "repository": "bindbrain/bindai",
+      "date": "2026-10-04",
       "stars": 6,
       "status": "active"
     },
@@ -511,6 +739,12 @@
       "status": "active"
     },
     {
+      "repository": "bkuan001/halo-record",
+      "date": "2026-10-04",
+      "stars": 82,
+      "status": "active"
+    },
+    {
       "repository": "blackwell-systems/gcf",
       "date": "2026-09-25",
       "stars": 51,
@@ -523,6 +757,12 @@
       "status": "active"
     },
     {
+      "repository": "blackwell-systems/gcf",
+      "date": "2026-10-04",
+      "stars": 56,
+      "status": "active"
+    },
+    {
       "repository": "blave-tw/blave-agent",
       "date": "2026-09-25",
       "stars": 33,
@@ -532,6 +772,12 @@
       "repository": "blave-tw/blave-agent",
       "date": "2026-09-30",
       "stars": 86,
+      "status": "active"
+    },
+    {
+      "repository": "blave-tw/blave-agent",
+      "date": "2026-10-04",
+      "stars": 88,
       "status": "active"
     },
     {
@@ -553,6 +799,12 @@
       "status": "active"
     },
     {
+      "repository": "boundaryml/baml",
+      "date": "2026-10-04",
+      "stars": 9381,
+      "status": "active"
+    },
+    {
       "repository": "browser-use/browser-use",
       "date": "2026-09-25",
       "stars": 116281,
@@ -562,6 +814,12 @@
       "repository": "browser-use/browser-use",
       "date": "2026-09-30",
       "stars": 116769,
+      "status": "active"
+    },
+    {
+      "repository": "browser-use/browser-use",
+      "date": "2026-10-04",
+      "stars": 117092,
       "status": "active"
     },
     {
@@ -577,9 +835,21 @@
       "status": "active"
     },
     {
+      "repository": "browserbase/stagehand",
+      "date": "2026-10-04",
+      "stars": 25530,
+      "status": "active"
+    },
+    {
       "repository": "busabase/busabase",
       "date": "2026-09-30",
       "stars": 274,
+      "status": "active"
+    },
+    {
+      "repository": "busabase/busabase",
+      "date": "2026-10-04",
+      "stars": 321,
       "status": "active"
     },
     {
@@ -592,6 +862,12 @@
       "repository": "buywhere/buywhere-mcp",
       "date": "2026-09-30",
       "stars": 14,
+      "status": "active"
+    },
+    {
+      "repository": "buywhere/buywhere-mcp",
+      "date": "2026-10-04",
+      "stars": 15,
       "status": "active"
     },
     {
@@ -613,6 +889,12 @@
       "status": "active"
     },
     {
+      "repository": "calcom/cal.com",
+      "date": "2026-10-04",
+      "stars": 48851,
+      "status": "active"
+    },
+    {
       "repository": "camel-ai/camel",
       "date": "2026-09-24",
       "stars": 17765,
@@ -631,6 +913,12 @@
       "status": "active"
     },
     {
+      "repository": "camel-ai/camel",
+      "date": "2026-10-04",
+      "stars": 17809,
+      "status": "active"
+    },
+    {
       "repository": "ceki-me/js-sdk",
       "date": "2026-09-25",
       "stars": 0,
@@ -639,6 +927,12 @@
     {
       "repository": "ceki-me/js-sdk",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "ceki-me/js-sdk",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -655,6 +949,12 @@
       "status": "active"
     },
     {
+      "repository": "ceki-me/mcp-server",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "ceki-me/python-sdk",
       "date": "2026-09-25",
       "stars": 1,
@@ -663,6 +963,12 @@
     {
       "repository": "ceki-me/python-sdk",
       "date": "2026-09-30",
+      "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "ceki-me/python-sdk",
+      "date": "2026-10-04",
       "stars": 2,
       "status": "active"
     },
@@ -679,6 +985,12 @@
       "status": "active"
     },
     {
+      "repository": "cgoinglove/thursday",
+      "date": "2026-10-04",
+      "stars": 31,
+      "status": "active"
+    },
+    {
       "repository": "chaitin/baizhi-agent-toolkit",
       "date": "2026-09-25",
       "stars": 100,
@@ -687,6 +999,12 @@
     {
       "repository": "chaitin/baizhi-agent-toolkit",
       "date": "2026-09-30",
+      "stars": 101,
+      "status": "active"
+    },
+    {
+      "repository": "chaitin/baizhi-agent-toolkit",
+      "date": "2026-10-04",
       "stars": 101,
       "status": "active"
     },
@@ -703,6 +1021,12 @@
       "status": "active"
     },
     {
+      "repository": "charlie85270/dorothy",
+      "date": "2026-10-04",
+      "stars": 350,
+      "status": "active"
+    },
+    {
       "repository": "cline/cline",
       "date": "2026-09-25",
       "stars": 69312,
@@ -715,6 +1039,12 @@
       "status": "active"
     },
     {
+      "repository": "cline/cline",
+      "date": "2026-10-04",
+      "stars": 69807,
+      "status": "active"
+    },
+    {
       "repository": "cogitoforge-ai/cogito-studio",
       "date": "2026-09-25",
       "stars": 19,
@@ -723,6 +1053,12 @@
     {
       "repository": "cogitoforge-ai/cogito-studio",
       "date": "2026-09-30",
+      "stars": 21,
+      "status": "active"
+    },
+    {
+      "repository": "cogitoforge-ai/cogito-studio",
+      "date": "2026-10-04",
       "stars": 21,
       "status": "active"
     },
@@ -739,6 +1075,12 @@
       "status": "active"
     },
     {
+      "repository": "comet-ml/opik",
+      "date": "2026-10-04",
+      "stars": 22364,
+      "status": "active"
+    },
+    {
       "repository": "contextstream/mcp-server",
       "date": "2026-09-25",
       "stars": 43,
@@ -747,6 +1089,12 @@
     {
       "repository": "contextstream/mcp-server",
       "date": "2026-09-30",
+      "stars": 44,
+      "status": "active"
+    },
+    {
+      "repository": "contextstream/mcp-server",
+      "date": "2026-10-04",
       "stars": 44,
       "status": "active"
     },
@@ -769,9 +1117,21 @@
       "status": "active"
     },
     {
+      "repository": "continuedev/continue",
+      "date": "2026-10-04",
+      "stars": 36105,
+      "status": "active"
+    },
+    {
       "repository": "continuum-ai-corp/orcareplay",
       "date": "2026-09-30",
       "stars": 268,
+      "status": "active"
+    },
+    {
+      "repository": "continuum-ai-corp/orcareplay",
+      "date": "2026-10-04",
+      "stars": 274,
       "status": "active"
     },
     {
@@ -787,6 +1147,12 @@
       "status": "active"
     },
     {
+      "repository": "corellisorg/corellis",
+      "date": "2026-10-04",
+      "stars": 31,
+      "status": "active"
+    },
+    {
       "repository": "corvinlabs/corvinos",
       "date": "2026-09-25",
       "stars": 11,
@@ -796,6 +1162,12 @@
       "repository": "corvinlabs/corvinos",
       "date": "2026-09-30",
       "stars": 12,
+      "status": "active"
+    },
+    {
+      "repository": "corvinlabs/corvinos",
+      "date": "2026-10-04",
+      "stars": 14,
       "status": "active"
     },
     {
@@ -817,6 +1189,12 @@
       "status": "active"
     },
     {
+      "repository": "crewaiinc/crewai",
+      "date": "2026-10-04",
+      "stars": 59330,
+      "status": "active"
+    },
+    {
       "repository": "cuga-project/cuga-agent",
       "date": "2026-09-25",
       "stars": 880,
@@ -829,6 +1207,12 @@
       "status": "active"
     },
     {
+      "repository": "cuga-project/cuga-agent",
+      "date": "2026-10-04",
+      "stars": 888,
+      "status": "active"
+    },
+    {
       "repository": "cznorth/winkterm",
       "date": "2026-09-25",
       "stars": 22,
@@ -837,6 +1221,12 @@
     {
       "repository": "cznorth/winkterm",
       "date": "2026-09-30",
+      "stars": 23,
+      "status": "active"
+    },
+    {
+      "repository": "cznorth/winkterm",
+      "date": "2026-10-04",
       "stars": 23,
       "status": "active"
     },
@@ -853,6 +1243,12 @@
       "status": "active"
     },
     {
+      "repository": "danielyedaniel/jevme",
+      "date": "2026-10-04",
+      "stars": 6,
+      "status": "active"
+    },
+    {
       "repository": "dann26parr69/aifordatabase-mcp",
       "date": "2026-09-25",
       "stars": 0,
@@ -861,6 +1257,12 @@
     {
       "repository": "dann26parr69/aifordatabase-mcp",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "dann26parr69/aifordatabase-mcp",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -889,6 +1291,12 @@
       "status": "active"
     },
     {
+      "repository": "daxaur/openpaw",
+      "date": "2026-10-04",
+      "stars": 173,
+      "status": "active"
+    },
+    {
       "repository": "deepmyst/mysti",
       "date": "2026-09-25",
       "stars": 1138,
@@ -898,6 +1306,12 @@
       "repository": "deepmyst/mysti",
       "date": "2026-09-30",
       "stars": 1141,
+      "status": "active"
+    },
+    {
+      "repository": "deepmyst/mysti",
+      "date": "2026-10-04",
+      "stars": 1140,
       "status": "active"
     },
     {
@@ -919,6 +1333,12 @@
       "status": "active"
     },
     {
+      "repository": "deepset-ai/haystack",
+      "date": "2026-10-04",
+      "stars": 26648,
+      "status": "active"
+    },
+    {
       "repository": "deesmo/arch-ai-tools",
       "date": "2026-09-25",
       "stars": 1,
@@ -927,6 +1347,12 @@
     {
       "repository": "deesmo/arch-ai-tools",
       "date": "2026-09-30",
+      "stars": 3,
+      "status": "active"
+    },
+    {
+      "repository": "deesmo/arch-ai-tools",
+      "date": "2026-10-04",
       "stars": 3,
       "status": "active"
     },
@@ -940,6 +1366,12 @@
       "repository": "detrol/quorum-cli",
       "date": "2026-09-30",
       "stars": 118,
+      "status": "active"
+    },
+    {
+      "repository": "detrol/quorum-cli",
+      "date": "2026-10-04",
+      "stars": 120,
       "status": "active"
     },
     {
@@ -961,6 +1393,12 @@
       "status": "active"
     },
     {
+      "repository": "developersdigest/llm-answer-engine",
+      "date": "2026-10-04",
+      "stars": 5036,
+      "status": "active"
+    },
+    {
       "repository": "djtony707/titan",
       "date": "2026-09-25",
       "stars": 18,
@@ -970,6 +1408,12 @@
       "repository": "djtony707/titan",
       "date": "2026-09-30",
       "stars": 18,
+      "status": "active"
+    },
+    {
+      "repository": "djtony707/titan",
+      "date": "2026-10-04",
+      "stars": 19,
       "status": "active"
     },
     {
@@ -985,6 +1429,12 @@
       "status": "active"
     },
     {
+      "repository": "dottxt-ai/outlines",
+      "date": "2026-10-04",
+      "stars": 15898,
+      "status": "active"
+    },
+    {
       "repository": "douglasborthwick-crypto/langchain-insumer",
       "date": "2026-09-25",
       "stars": 0,
@@ -993,6 +1443,12 @@
     {
       "repository": "douglasborthwick-crypto/langchain-insumer",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "douglasborthwick-crypto/langchain-insumer",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -1009,6 +1465,12 @@
       "status": "active"
     },
     {
+      "repository": "douglasborthwick-crypto/mcp-server-insumer",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "drdroidlab/open-index",
       "date": "2026-09-25",
       "stars": 111,
@@ -1017,6 +1479,12 @@
     {
       "repository": "drdroidlab/open-index",
       "date": "2026-09-30",
+      "stars": 112,
+      "status": "active"
+    },
+    {
+      "repository": "drdroidlab/open-index",
+      "date": "2026-10-04",
       "stars": 112,
       "status": "active"
     },
@@ -1045,6 +1513,12 @@
       "status": "active"
     },
     {
+      "repository": "e2b-dev/e2b",
+      "date": "2026-10-04",
+      "stars": 14143,
+      "status": "active"
+    },
+    {
       "repository": "e2b-dev/fragments",
       "date": "2026-09-25",
       "stars": 6377,
@@ -1057,6 +1531,12 @@
       "status": "active"
     },
     {
+      "repository": "e2b-dev/fragments",
+      "date": "2026-10-04",
+      "stars": 6382,
+      "status": "active"
+    },
+    {
       "repository": "echennells/sparkbtcbot",
       "date": "2026-09-25",
       "stars": 4,
@@ -1066,6 +1546,18 @@
       "repository": "echennells/sparkbtcbot",
       "date": "2026-09-30",
       "stars": 5,
+      "status": "active"
+    },
+    {
+      "repository": "echennells/sparkbtcbot",
+      "date": "2026-10-04",
+      "stars": 5,
+      "status": "active"
+    },
+    {
+      "repository": "empac666/agent-argue-cards",
+      "date": "2026-10-04",
+      "stars": 0,
       "status": "active"
     },
     {
@@ -1093,15 +1585,33 @@
       "status": "active"
     },
     {
+      "repository": "eosphoros-ai/db-gpt",
+      "date": "2026-10-04",
+      "stars": 20077,
+      "status": "active"
+    },
+    {
       "repository": "eth-sri/lmql",
       "date": "2026-09-24",
       "stars": 4219,
       "status": "active"
     },
     {
+      "repository": "everafterlabs/jes",
+      "date": "2026-10-04",
+      "stars": 10,
+      "status": "active"
+    },
+    {
       "repository": "evermind-ai/raven",
       "date": "2026-09-30",
       "stars": 4859,
+      "status": "active"
+    },
+    {
+      "repository": "evermind-ai/raven",
+      "date": "2026-10-04",
+      "stars": 5129,
       "status": "active"
     },
     {
@@ -1123,6 +1633,12 @@
       "status": "active"
     },
     {
+      "repository": "farizrahman4u/loopgpt",
+      "date": "2026-10-04",
+      "stars": 1451,
+      "status": "active"
+    },
+    {
       "repository": "felo-inc/memclaw",
       "date": "2026-09-25",
       "stars": 40,
@@ -1132,6 +1648,12 @@
       "repository": "felo-inc/memclaw",
       "date": "2026-09-30",
       "stars": 41,
+      "status": "active"
+    },
+    {
+      "repository": "felo-inc/memclaw",
+      "date": "2026-10-04",
+      "stars": 42,
       "status": "active"
     },
     {
@@ -1153,6 +1675,12 @@
       "status": "active"
     },
     {
+      "repository": "fetchai/uagents",
+      "date": "2026-10-04",
+      "stars": 1640,
+      "status": "active"
+    },
+    {
       "repository": "firecrawl/firecrawl",
       "date": "2026-09-25",
       "stars": 184683,
@@ -1165,6 +1693,12 @@
       "status": "active"
     },
     {
+      "repository": "firecrawl/firecrawl",
+      "date": "2026-10-04",
+      "stars": 188355,
+      "status": "active"
+    },
+    {
       "repository": "flik2002/openclaw-monitor",
       "date": "2026-09-25",
       "stars": 12,
@@ -1173,6 +1707,12 @@
     {
       "repository": "flik2002/openclaw-monitor",
       "date": "2026-09-30",
+      "stars": 13,
+      "status": "active"
+    },
+    {
+      "repository": "flik2002/openclaw-monitor",
+      "date": "2026-10-04",
       "stars": 13,
       "status": "active"
     },
@@ -1195,6 +1735,18 @@
       "status": "archived"
     },
     {
+      "repository": "flowiseai/flowise",
+      "date": "2026-10-04",
+      "stars": 55488,
+      "status": "archived"
+    },
+    {
+      "repository": "foklepoint/court-rules-mcp",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "francedot/navaiguide-ts",
       "date": "2026-09-24",
       "stars": 115,
@@ -1213,6 +1765,12 @@
       "status": "active"
     },
     {
+      "repository": "fresh-claw/hermes-zh-cn",
+      "date": "2026-10-04",
+      "stars": 18,
+      "status": "active"
+    },
+    {
       "repository": "frontman-ai/frontman",
       "date": "2026-09-25",
       "stars": 707,
@@ -1222,6 +1780,12 @@
       "repository": "frontman-ai/frontman",
       "date": "2026-09-30",
       "stars": 707,
+      "status": "active"
+    },
+    {
+      "repository": "frontman-ai/frontman",
+      "date": "2026-10-04",
+      "stars": 709,
       "status": "active"
     },
     {
@@ -1255,6 +1819,12 @@
       "status": "active"
     },
     {
+      "repository": "getzep/zep",
+      "date": "2026-10-04",
+      "stars": 4948,
+      "status": "active"
+    },
+    {
       "repository": "gfernandf/agent-skills",
       "date": "2026-09-25",
       "stars": 67,
@@ -1264,6 +1834,12 @@
       "repository": "gfernandf/agent-skills",
       "date": "2026-09-30",
       "stars": 67,
+      "status": "active"
+    },
+    {
+      "repository": "gfernandf/agent-skills",
+      "date": "2026-10-04",
+      "stars": 70,
       "status": "active"
     },
     {
@@ -1279,6 +1855,12 @@
       "status": "active"
     },
     {
+      "repository": "giselles-ai/giselle",
+      "date": "2026-10-04",
+      "stars": 556,
+      "status": "active"
+    },
+    {
       "repository": "github/github-mcp-server",
       "date": "2026-09-25",
       "stars": 33197,
@@ -1288,6 +1870,12 @@
       "repository": "github/github-mcp-server",
       "date": "2026-09-30",
       "stars": 33289,
+      "status": "active"
+    },
+    {
+      "repository": "github/github-mcp-server",
+      "date": "2026-10-04",
+      "stars": 33352,
       "status": "active"
     },
     {
@@ -1309,6 +1897,12 @@
       "status": "active"
     },
     {
+      "repository": "google/adk-python",
+      "date": "2026-10-04",
+      "stars": 21701,
+      "status": "active"
+    },
+    {
       "repository": "gpt-engineer-org/gpt-engineer",
       "date": "2026-09-24",
       "stars": 55084,
@@ -1324,6 +1918,12 @@
       "repository": "gptme/gptme",
       "date": "2026-09-30",
       "stars": 4439,
+      "status": "active"
+    },
+    {
+      "repository": "gptme/gptme",
+      "date": "2026-10-04",
+      "stars": 4443,
       "status": "active"
     },
     {
@@ -1345,6 +1945,12 @@
       "status": "active"
     },
     {
+      "repository": "guardrails-ai/guardrails",
+      "date": "2026-10-04",
+      "stars": 7482,
+      "status": "active"
+    },
+    {
       "repository": "guidance-ai/guidance",
       "date": "2026-09-24",
       "stars": 21776,
@@ -1363,6 +1969,12 @@
       "status": "active"
     },
     {
+      "repository": "guidance-ai/guidance",
+      "date": "2026-10-04",
+      "stars": 21788,
+      "status": "active"
+    },
+    {
       "repository": "hagicode-org/desktop",
       "date": "2026-09-25",
       "stars": 4,
@@ -1375,8 +1987,20 @@
       "status": "active"
     },
     {
+      "repository": "hagicode-org/desktop",
+      "date": "2026-10-04",
+      "stars": 5,
+      "status": "active"
+    },
+    {
       "repository": "happy520ai/unified-ai-system",
       "date": "2026-09-30",
+      "stars": 8,
+      "status": "active"
+    },
+    {
+      "repository": "happy520ai/unified-ai-system",
+      "date": "2026-10-04",
       "stars": 8,
       "status": "active"
     },
@@ -1393,6 +2017,12 @@
       "status": "active"
     },
     {
+      "repository": "harperz9/telos",
+      "date": "2026-10-04",
+      "stars": 3,
+      "status": "active"
+    },
+    {
       "repository": "hashgraph-online/standards-sdk",
       "date": "2026-09-25",
       "stars": 1229,
@@ -1402,6 +2032,12 @@
       "repository": "hashgraph-online/standards-sdk",
       "date": "2026-09-30",
       "stars": 1232,
+      "status": "active"
+    },
+    {
+      "repository": "hashgraph-online/standards-sdk",
+      "date": "2026-10-04",
+      "stars": 1240,
       "status": "active"
     },
     {
@@ -1423,6 +2059,12 @@
       "status": "active"
     },
     {
+      "repository": "helicone/helicone",
+      "date": "2026-10-04",
+      "stars": 6199,
+      "status": "active"
+    },
+    {
       "repository": "hivemoot/hivemoot",
       "date": "2026-09-25",
       "stars": 16,
@@ -1431,6 +2073,12 @@
     {
       "repository": "hivemoot/hivemoot",
       "date": "2026-09-30",
+      "stars": 17,
+      "status": "active"
+    },
+    {
+      "repository": "hivemoot/hivemoot",
+      "date": "2026-10-04",
       "stars": 17,
       "status": "active"
     },
@@ -1444,6 +2092,12 @@
       "repository": "hmakt99/akf",
       "date": "2026-09-30",
       "stars": 17,
+      "status": "active"
+    },
+    {
+      "repository": "hmakt99/akf",
+      "date": "2026-10-04",
+      "stars": 19,
       "status": "active"
     },
     {
@@ -1455,6 +2109,12 @@
     {
       "repository": "hnf-frn/reel-watcher-telegram-agent",
       "date": "2026-09-30",
+      "stars": 4,
+      "status": "active"
+    },
+    {
+      "repository": "hnf-frn/reel-watcher-telegram-agent",
+      "date": "2026-10-04",
       "stars": 4,
       "status": "active"
     },
@@ -1471,6 +2131,12 @@
       "status": "active"
     },
     {
+      "repository": "huggingface/smolagents",
+      "date": "2026-10-04",
+      "stars": 29667,
+      "status": "active"
+    },
+    {
       "repository": "human-pages-ai/humanpages",
       "date": "2026-09-25",
       "stars": 7,
@@ -1479,6 +2145,12 @@
     {
       "repository": "human-pages-ai/humanpages",
       "date": "2026-09-30",
+      "stars": 8,
+      "status": "active"
+    },
+    {
+      "repository": "human-pages-ai/humanpages",
+      "date": "2026-10-04",
       "stars": 8,
       "status": "active"
     },
@@ -1501,6 +2173,12 @@
       "status": "active"
     },
     {
+      "repository": "ifyoubuildit/the-agentic-leaderboard-data",
+      "date": "2026-10-04",
+      "stars": 1,
+      "status": "active"
+    },
+    {
       "repository": "ikamensh/kodo",
       "date": "2026-09-25",
       "stars": 133,
@@ -1509,6 +2187,12 @@
     {
       "repository": "ikamensh/kodo",
       "date": "2026-09-30",
+      "stars": 135,
+      "status": "active"
+    },
+    {
+      "repository": "ikamensh/kodo",
+      "date": "2026-10-04",
       "stars": 135,
       "status": "active"
     },
@@ -1531,6 +2215,12 @@
       "status": "active"
     },
     {
+      "repository": "ipythoning/b2b-sdr-agent-template",
+      "date": "2026-10-04",
+      "stars": 189,
+      "status": "active"
+    },
+    {
       "repository": "ishan0102/vimgpt",
       "date": "2026-09-24",
       "stars": 2647,
@@ -1540,6 +2230,12 @@
       "repository": "islomkhon/cerebrumkit",
       "date": "2026-09-30",
       "stars": 3,
+      "status": "active"
+    },
+    {
+      "repository": "islomkhon/cerebrumkit",
+      "date": "2026-10-04",
+      "stars": 4,
       "status": "active"
     },
     {
@@ -1555,6 +2251,12 @@
       "status": "active"
     },
     {
+      "repository": "itseemedlikeagoodideaatthetime/strata",
+      "date": "2026-10-04",
+      "stars": 1,
+      "status": "active"
+    },
+    {
       "repository": "ivoshemi-sys/oixa-protocol",
       "date": "2026-09-25",
       "stars": 1,
@@ -1563,6 +2265,12 @@
     {
       "repository": "ivoshemi-sys/oixa-protocol",
       "date": "2026-09-30",
+      "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "ivoshemi-sys/oixa-protocol",
+      "date": "2026-10-04",
       "stars": 2,
       "status": "active"
     },
@@ -1591,6 +2299,12 @@
       "status": "active"
     },
     {
+      "repository": "janhq/jan",
+      "date": "2026-10-04",
+      "stars": 44781,
+      "status": "active"
+    },
+    {
       "repository": "jarvismaximum-hue/profitplay-starter",
       "date": "2026-09-25",
       "stars": 8,
@@ -1599,6 +2313,12 @@
     {
       "repository": "jarvismaximum-hue/profitplay-starter",
       "date": "2026-09-30",
+      "stars": 9,
+      "status": "active"
+    },
+    {
+      "repository": "jarvismaximum-hue/profitplay-starter",
+      "date": "2026-10-04",
       "stars": 9,
       "status": "active"
     },
@@ -1615,6 +2335,12 @@
       "status": "active"
     },
     {
+      "repository": "jessegdotio/hermesplant-mcp-server",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "jmagly/aiwg",
       "date": "2026-09-25",
       "stars": 211,
@@ -1624,6 +2350,12 @@
       "repository": "jmagly/aiwg",
       "date": "2026-09-30",
       "stars": 212,
+      "status": "active"
+    },
+    {
+      "repository": "jmagly/aiwg",
+      "date": "2026-10-04",
+      "stars": 220,
       "status": "active"
     },
     {
@@ -1657,6 +2389,12 @@
       "status": "active"
     },
     {
+      "repository": "josh-xt/agixt",
+      "date": "2026-10-04",
+      "stars": 3217,
+      "status": "active"
+    },
+    {
       "repository": "juanmanueldaza/n3rv",
       "date": "2026-09-25",
       "stars": 10,
@@ -1665,6 +2403,12 @@
     {
       "repository": "juanmanueldaza/n3rv",
       "date": "2026-09-30",
+      "stars": 11,
+      "status": "active"
+    },
+    {
+      "repository": "juanmanueldaza/n3rv",
+      "date": "2026-10-04",
       "stars": 11,
       "status": "active"
     },
@@ -1678,6 +2422,12 @@
       "repository": "julep-ai/julep",
       "date": "2026-09-30",
       "stars": 6577,
+      "status": "active"
+    },
+    {
+      "repository": "julep-ai/julep",
+      "date": "2026-10-04",
+      "stars": 6578,
       "status": "active"
     },
     {
@@ -1711,6 +2461,12 @@
       "status": "active"
     },
     {
+      "repository": "kuafuai/devopsgpt",
+      "date": "2026-10-04",
+      "stars": 5967,
+      "status": "active"
+    },
+    {
       "repository": "kubestellar/console",
       "date": "2026-09-25",
       "stars": 139,
@@ -1719,6 +2475,12 @@
     {
       "repository": "kubestellar/console",
       "date": "2026-09-30",
+      "stars": 141,
+      "status": "active"
+    },
+    {
+      "repository": "kubestellar/console",
+      "date": "2026-10-04",
       "stars": 141,
       "status": "active"
     },
@@ -1741,6 +2503,12 @@
       "status": "active"
     },
     {
+      "repository": "kyegomez/swarms",
+      "date": "2026-10-04",
+      "stars": 7230,
+      "status": "active"
+    },
+    {
       "repository": "l33tdawg/sage",
       "date": "2026-09-25",
       "stars": 252,
@@ -1750,6 +2518,12 @@
       "repository": "l33tdawg/sage",
       "date": "2026-09-30",
       "stars": 253,
+      "status": "active"
+    },
+    {
+      "repository": "l33tdawg/sage",
+      "date": "2026-10-04",
+      "stars": 254,
       "status": "active"
     },
     {
@@ -1765,6 +2539,12 @@
       "status": "active"
     },
     {
+      "repository": "langchain-ai/langchain",
+      "date": "2026-10-04",
+      "stars": 147421,
+      "status": "active"
+    },
+    {
       "repository": "langchain-ai/langchainjs",
       "date": "2026-09-25",
       "stars": 18227,
@@ -1774,6 +2554,12 @@
       "repository": "langchain-ai/langchainjs",
       "date": "2026-09-30",
       "stars": 18241,
+      "status": "active"
+    },
+    {
+      "repository": "langchain-ai/langchainjs",
+      "date": "2026-10-04",
+      "stars": 18246,
       "status": "active"
     },
     {
@@ -1789,6 +2575,12 @@
       "status": "active"
     },
     {
+      "repository": "langchain-ai/langgraph",
+      "date": "2026-10-04",
+      "stars": 42687,
+      "status": "active"
+    },
+    {
       "repository": "langchain-ai/langgraphjs",
       "date": "2026-09-25",
       "stars": 3313,
@@ -1798,6 +2590,12 @@
       "repository": "langchain-ai/langgraphjs",
       "date": "2026-09-30",
       "stars": 3327,
+      "status": "active"
+    },
+    {
+      "repository": "langchain-ai/langgraphjs",
+      "date": "2026-10-04",
+      "stars": 3335,
       "status": "active"
     },
     {
@@ -1813,6 +2611,12 @@
       "status": "archived"
     },
     {
+      "repository": "langchain-ai/langserve",
+      "date": "2026-10-04",
+      "stars": 2328,
+      "status": "archived"
+    },
+    {
       "repository": "langchain-ai/langsmith-sdk",
       "date": "2026-09-25",
       "stars": 1063,
@@ -1822,6 +2626,12 @@
       "repository": "langchain-ai/langsmith-sdk",
       "date": "2026-09-30",
       "stars": 1065,
+      "status": "active"
+    },
+    {
+      "repository": "langchain-ai/langsmith-sdk",
+      "date": "2026-10-04",
+      "stars": 1067,
       "status": "active"
     },
     {
@@ -1837,6 +2647,12 @@
       "status": "active"
     },
     {
+      "repository": "langfuse/langfuse",
+      "date": "2026-10-04",
+      "stars": 35352,
+      "status": "active"
+    },
+    {
       "repository": "letta-ai/letta",
       "date": "2026-09-25",
       "stars": 24884,
@@ -1846,6 +2662,12 @@
       "repository": "letta-ai/letta",
       "date": "2026-09-30",
       "stars": 24980,
+      "status": "active"
+    },
+    {
+      "repository": "letta-ai/letta",
+      "date": "2026-10-04",
+      "stars": 25022,
       "status": "active"
     },
     {
@@ -1861,6 +2683,12 @@
       "status": "active"
     },
     {
+      "repository": "livekit/agents",
+      "date": "2026-10-04",
+      "stars": 14467,
+      "status": "active"
+    },
+    {
       "repository": "lobehub/lobehub",
       "date": "2026-09-25",
       "stars": 82828,
@@ -1870,6 +2698,12 @@
       "repository": "lobehub/lobehub",
       "date": "2026-09-30",
       "stars": 82911,
+      "status": "active"
+    },
+    {
+      "repository": "lobehub/lobehub",
+      "date": "2026-10-04",
+      "stars": 82975,
       "status": "active"
     },
     {
@@ -1885,9 +2719,21 @@
       "status": "active"
     },
     {
+      "repository": "looptroop-ai/looptroop",
+      "date": "2026-10-04",
+      "stars": 156,
+      "status": "active"
+    },
+    {
       "repository": "louis030195/hyperconsciousness",
       "date": "2026-09-30",
       "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "louis030195/hyperconsciousness",
+      "date": "2026-10-04",
+      "stars": 5,
       "status": "active"
     },
     {
@@ -1899,6 +2745,12 @@
     {
       "repository": "lucinate-ai/lucinate",
       "date": "2026-09-30",
+      "stars": 12,
+      "status": "active"
+    },
+    {
+      "repository": "lucinate-ai/lucinate",
+      "date": "2026-10-04",
       "stars": 12,
       "status": "active"
     },
@@ -1915,6 +2767,12 @@
       "status": "active"
     },
     {
+      "repository": "luoyuctl/agenttrace",
+      "date": "2026-10-04",
+      "stars": 138,
+      "status": "active"
+    },
+    {
       "repository": "madarco/agentbox",
       "date": "2026-09-25",
       "stars": 489,
@@ -1927,6 +2785,12 @@
       "status": "active"
     },
     {
+      "repository": "madarco/agentbox",
+      "date": "2026-10-04",
+      "stars": 509,
+      "status": "active"
+    },
+    {
       "repository": "mafengwo292/evo-ai",
       "date": "2026-09-25",
       "stars": 0,
@@ -1935,6 +2799,12 @@
     {
       "repository": "mafengwo292/evo-ai",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "mafengwo292/evo-ai",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -1951,6 +2821,12 @@
       "status": "active"
     },
     {
+      "repository": "marlburrow/hivekeep",
+      "date": "2026-10-04",
+      "stars": 68,
+      "status": "active"
+    },
+    {
       "repository": "mastra-ai/mastra",
       "date": "2026-09-25",
       "stars": 28333,
@@ -1963,6 +2839,12 @@
       "status": "active"
     },
     {
+      "repository": "mastra-ai/mastra",
+      "date": "2026-10-04",
+      "stars": 28544,
+      "status": "active"
+    },
+    {
       "repository": "maxfain/basedagents",
       "date": "2026-09-25",
       "stars": 0,
@@ -1971,6 +2853,12 @@
     {
       "repository": "maxfain/basedagents",
       "date": "2026-09-30",
+      "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "maxfain/basedagents",
+      "date": "2026-10-04",
       "stars": 2,
       "status": "active"
     },
@@ -1987,6 +2875,12 @@
       "status": "active"
     },
     {
+      "repository": "mediar-ai/fazm",
+      "date": "2026-10-04",
+      "stars": 341,
+      "status": "active"
+    },
+    {
       "repository": "melaya-labs/melaya",
       "date": "2026-09-25",
       "stars": 5,
@@ -1995,6 +2889,12 @@
     {
       "repository": "melaya-labs/melaya",
       "date": "2026-09-30",
+      "stars": 6,
+      "status": "active"
+    },
+    {
+      "repository": "melaya-labs/melaya",
+      "date": "2026-10-04",
       "stars": 6,
       "status": "active"
     },
@@ -2011,6 +2911,12 @@
       "status": "active"
     },
     {
+      "repository": "mem0ai/mem0",
+      "date": "2026-10-04",
+      "stars": 66548,
+      "status": "active"
+    },
+    {
       "repository": "mergisi/awesome-openclaw-agents",
       "date": "2026-09-25",
       "stars": 3985,
@@ -2020,6 +2926,12 @@
       "repository": "mergisi/awesome-openclaw-agents",
       "date": "2026-09-30",
       "stars": 3993,
+      "status": "active"
+    },
+    {
+      "repository": "mergisi/awesome-openclaw-agents",
+      "date": "2026-10-04",
+      "stars": 3995,
       "status": "active"
     },
     {
@@ -2035,6 +2947,12 @@
       "status": "active"
     },
     {
+      "repository": "mervinpraison/praisonai",
+      "date": "2026-10-04",
+      "stars": 9131,
+      "status": "active"
+    },
+    {
       "repository": "metorial/metorial",
       "date": "2026-09-25",
       "stars": 3358,
@@ -2043,6 +2961,12 @@
     {
       "repository": "metorial/metorial",
       "date": "2026-09-30",
+      "stars": 3363,
+      "status": "active"
+    },
+    {
+      "repository": "metorial/metorial",
+      "date": "2026-10-04",
       "stars": 3363,
       "status": "active"
     },
@@ -2059,6 +2983,12 @@
       "status": "active"
     },
     {
+      "repository": "microsoft/agent-framework",
+      "date": "2026-10-04",
+      "stars": 13933,
+      "status": "active"
+    },
+    {
       "repository": "microsoft/autogen",
       "date": "2026-09-25",
       "stars": 61164,
@@ -2068,6 +2998,12 @@
       "repository": "microsoft/autogen",
       "date": "2026-09-30",
       "stars": 61229,
+      "status": "active"
+    },
+    {
+      "repository": "microsoft/autogen",
+      "date": "2026-10-04",
+      "stars": 61251,
       "status": "active"
     },
     {
@@ -2083,6 +3019,12 @@
       "status": "active"
     },
     {
+      "repository": "microsoft/playwright-mcp",
+      "date": "2026-10-04",
+      "stars": 37797,
+      "status": "active"
+    },
+    {
       "repository": "microsoft/typechat",
       "date": "2026-09-25",
       "stars": 8687,
@@ -2095,6 +3037,12 @@
       "status": "active"
     },
     {
+      "repository": "microsoft/typechat",
+      "date": "2026-10-04",
+      "stars": 8689,
+      "status": "active"
+    },
+    {
       "repository": "mnemoverse/mcp-memory-server",
       "date": "2026-09-25",
       "stars": 25,
@@ -2103,6 +3051,12 @@
     {
       "repository": "mnemoverse/mcp-memory-server",
       "date": "2026-09-30",
+      "stars": 26,
+      "status": "active"
+    },
+    {
+      "repository": "mnemoverse/mcp-memory-server",
+      "date": "2026-10-04",
       "stars": 26,
       "status": "active"
     },
@@ -2119,6 +3073,12 @@
       "status": "active"
     },
     {
+      "repository": "moching-ai-dev/moching",
+      "date": "2026-10-04",
+      "stars": 11,
+      "status": "active"
+    },
+    {
       "repository": "modelcontextprotocol/modelcontextprotocol",
       "date": "2026-09-25",
       "stars": 9306,
@@ -2131,6 +3091,12 @@
       "status": "active"
     },
     {
+      "repository": "modelcontextprotocol/modelcontextprotocol",
+      "date": "2026-10-04",
+      "stars": 9376,
+      "status": "active"
+    },
+    {
       "repository": "modernops888/the-forge",
       "date": "2026-09-25",
       "stars": 12,
@@ -2143,9 +3109,21 @@
       "status": "active"
     },
     {
+      "repository": "modernops888/the-forge",
+      "date": "2026-10-04",
+      "stars": 13,
+      "status": "active"
+    },
+    {
       "repository": "mohammadhijjawi97/since-cutoff",
       "date": "2026-09-30",
       "stars": 4,
+      "status": "active"
+    },
+    {
+      "repository": "mohammadhijjawi97/since-cutoff",
+      "date": "2026-10-04",
+      "stars": 6,
       "status": "active"
     },
     {
@@ -2157,6 +3135,12 @@
     {
       "repository": "momenbasel/cryptoguard",
       "date": "2026-09-30",
+      "stars": 9,
+      "status": "active"
+    },
+    {
+      "repository": "momenbasel/cryptoguard",
+      "date": "2026-10-04",
       "stars": 9,
       "status": "active"
     },
@@ -2173,6 +3157,12 @@
       "status": "active"
     },
     {
+      "repository": "moresyl/dsh-studio",
+      "date": "2026-10-04",
+      "stars": 76,
+      "status": "active"
+    },
+    {
       "repository": "mukundakatta/agent-stack",
       "date": "2026-09-25",
       "stars": 5,
@@ -2181,6 +3171,12 @@
     {
       "repository": "mukundakatta/agent-stack",
       "date": "2026-09-30",
+      "stars": 6,
+      "status": "active"
+    },
+    {
+      "repository": "mukundakatta/agent-stack",
+      "date": "2026-10-04",
       "stars": 6,
       "status": "active"
     },
@@ -2197,6 +3193,18 @@
       "status": "active"
     },
     {
+      "repository": "muvon/octomind",
+      "date": "2026-10-04",
+      "stars": 148,
+      "status": "active"
+    },
+    {
+      "repository": "myspecs/claude-plugins",
+      "date": "2026-10-04",
+      "stars": 0,
+      "status": "active"
+    },
+    {
       "repository": "nano-collective/nanocoder",
       "date": "2026-09-25",
       "stars": 2492,
@@ -2209,6 +3217,12 @@
       "status": "active"
     },
     {
+      "repository": "nano-collective/nanocoder",
+      "date": "2026-10-04",
+      "stars": 2497,
+      "status": "active"
+    },
+    {
       "repository": "navikkumarmodi/aiactguard",
       "date": "2026-09-25",
       "stars": 0,
@@ -2217,6 +3231,12 @@
     {
       "repository": "navikkumarmodi/aiactguard",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "navikkumarmodi/aiactguard",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -2233,6 +3253,12 @@
       "status": "active"
     },
     {
+      "repository": "necmttn/ax",
+      "date": "2026-10-04",
+      "stars": 115,
+      "status": "active"
+    },
+    {
       "repository": "netmindai-open/narranexus",
       "date": "2026-09-25",
       "stars": 85,
@@ -2245,6 +3271,12 @@
       "status": "active"
     },
     {
+      "repository": "netmindai-open/narranexus",
+      "date": "2026-10-04",
+      "stars": 88,
+      "status": "active"
+    },
+    {
       "repository": "nicofains1/agentwatch",
       "date": "2026-09-25",
       "stars": 0,
@@ -2254,6 +3286,12 @@
       "repository": "nicofains1/agentwatch",
       "date": "2026-09-30",
       "stars": 0,
+      "status": "active"
+    },
+    {
+      "repository": "nicofains1/agentwatch",
+      "date": "2026-10-04",
+      "stars": 1,
       "status": "active"
     },
     {
@@ -2269,9 +3307,21 @@
       "status": "active"
     },
     {
+      "repository": "nikoschoinas/routeweiler-python-sdk",
+      "date": "2026-10-04",
+      "stars": 33,
+      "status": "active"
+    },
+    {
       "repository": "nousresearch/hermes-agent",
       "date": "2026-09-30",
       "stars": 250139,
+      "status": "active"
+    },
+    {
+      "repository": "nousresearch/hermes-agent",
+      "date": "2026-10-04",
+      "stars": 251029,
       "status": "active"
     },
     {
@@ -2287,6 +3337,12 @@
       "status": "active"
     },
     {
+      "repository": "nowork-studio/notfair-plugin",
+      "date": "2026-10-04",
+      "stars": 3895,
+      "status": "active"
+    },
+    {
       "repository": "nvidia-nemo/guardrails",
       "date": "2026-09-25",
       "stars": 7196,
@@ -2299,9 +3355,21 @@
       "status": "active"
     },
     {
+      "repository": "nvidia-nemo/guardrails",
+      "date": "2026-10-04",
+      "stars": 7243,
+      "status": "active"
+    },
+    {
       "repository": "nybarius/svrf",
       "date": "2026-09-30",
       "stars": 0,
+      "status": "active"
+    },
+    {
+      "repository": "nybarius/svrf",
+      "date": "2026-10-04",
+      "stars": 1,
       "status": "active"
     },
     {
@@ -2317,6 +3385,12 @@
       "status": "active"
     },
     {
+      "repository": "oktolabsai/okto-nexus",
+      "date": "2026-10-04",
+      "stars": 69,
+      "status": "active"
+    },
+    {
       "repository": "oktolabsai/okto-pulse",
       "date": "2026-09-25",
       "stars": 90,
@@ -2326,6 +3400,12 @@
       "repository": "oktolabsai/okto-pulse",
       "date": "2026-09-30",
       "stars": 108,
+      "status": "active"
+    },
+    {
+      "repository": "oktolabsai/okto-pulse",
+      "date": "2026-10-04",
+      "stars": 111,
       "status": "active"
     },
     {
@@ -2341,6 +3421,12 @@
       "status": "active"
     },
     {
+      "repository": "ollama/ollama",
+      "date": "2026-10-04",
+      "stars": 182140,
+      "status": "active"
+    },
+    {
       "repository": "omega-memory/omega-memory",
       "date": "2026-09-25",
       "stars": 217,
@@ -2349,6 +3435,12 @@
     {
       "repository": "omega-memory/omega-memory",
       "date": "2026-09-30",
+      "stars": 219,
+      "status": "active"
+    },
+    {
+      "repository": "omega-memory/omega-memory",
+      "date": "2026-10-04",
       "stars": 219,
       "status": "active"
     },
@@ -2365,6 +3457,12 @@
       "status": "active"
     },
     {
+      "repository": "open-twin/opentwins",
+      "date": "2026-10-04",
+      "stars": 15,
+      "status": "active"
+    },
+    {
       "repository": "openagents-org/openagents",
       "date": "2026-09-25",
       "stars": 4141,
@@ -2374,6 +3472,12 @@
       "repository": "openagents-org/openagents",
       "date": "2026-09-30",
       "stars": 4162,
+      "status": "active"
+    },
+    {
+      "repository": "openagents-org/openagents",
+      "date": "2026-10-04",
+      "stars": 4172,
       "status": "active"
     },
     {
@@ -2389,6 +3493,12 @@
       "status": "active"
     },
     {
+      "repository": "openai/openai-agents-python",
+      "date": "2026-10-04",
+      "stars": 29825,
+      "status": "active"
+    },
+    {
       "repository": "openbmb/chatdev",
       "date": "2026-09-25",
       "stars": 34396,
@@ -2401,6 +3511,12 @@
       "status": "active"
     },
     {
+      "repository": "openbmb/chatdev",
+      "date": "2026-10-04",
+      "stars": 34439,
+      "status": "active"
+    },
+    {
       "repository": "openbmb/xagent",
       "date": "2026-09-25",
       "stars": 8549,
@@ -2410,6 +3526,12 @@
       "repository": "openbmb/xagent",
       "date": "2026-09-30",
       "stars": 8549,
+      "status": "active"
+    },
+    {
+      "repository": "openbmb/xagent",
+      "date": "2026-10-04",
+      "stars": 8552,
       "status": "active"
     },
     {
@@ -2425,9 +3547,21 @@
       "status": "active"
     },
     {
+      "repository": "openclaw/openclaw",
+      "date": "2026-10-04",
+      "stars": 391261,
+      "status": "active"
+    },
+    {
       "repository": "opencoven/coven",
       "date": "2026-09-30",
       "stars": 62,
+      "status": "active"
+    },
+    {
+      "repository": "opencoven/coven",
+      "date": "2026-10-04",
+      "stars": 66,
       "status": "active"
     },
     {
@@ -2443,6 +3577,12 @@
       "status": "active"
     },
     {
+      "repository": "openhands/openhands",
+      "date": "2026-10-04",
+      "stars": 89933,
+      "status": "active"
+    },
+    {
       "repository": "openinterpreter/open-interpreter",
       "date": "2026-09-25",
       "stars": 68439,
@@ -2452,6 +3592,12 @@
       "repository": "openinterpreter/open-interpreter",
       "date": "2026-09-30",
       "stars": 68479,
+      "status": "active"
+    },
+    {
+      "repository": "openinterpreter/open-interpreter",
+      "date": "2026-10-04",
+      "stars": 68502,
       "status": "active"
     },
     {
@@ -2467,6 +3613,12 @@
       "status": "active"
     },
     {
+      "repository": "openonion/connectonion",
+      "date": "2026-10-04",
+      "stars": 1493,
+      "status": "active"
+    },
+    {
       "repository": "operantlabs/operant-mcp",
       "date": "2026-09-25",
       "stars": 23,
@@ -2476,6 +3628,12 @@
       "repository": "operantlabs/operant-mcp",
       "date": "2026-09-30",
       "stars": 24,
+      "status": "active"
+    },
+    {
+      "repository": "operantlabs/operant-mcp",
+      "date": "2026-10-04",
+      "stars": 25,
       "status": "active"
     },
     {
@@ -2491,6 +3649,18 @@
       "status": "active"
     },
     {
+      "repository": "oraios/serena",
+      "date": "2026-10-04",
+      "stars": 29972,
+      "status": "active"
+    },
+    {
+      "repository": "orbi-build/orbi",
+      "date": "2026-10-04",
+      "stars": 195,
+      "status": "active"
+    },
+    {
       "repository": "orkas-ai/orkas",
       "date": "2026-09-25",
       "stars": 2124,
@@ -2503,6 +3673,12 @@
       "status": "active"
     },
     {
+      "repository": "orkas-ai/orkas",
+      "date": "2026-10-04",
+      "stars": 2150,
+      "status": "active"
+    },
+    {
       "repository": "oxgeneral/orch",
       "date": "2026-09-25",
       "stars": 166,
@@ -2511,6 +3687,12 @@
     {
       "repository": "oxgeneral/orch",
       "date": "2026-09-30",
+      "stars": 167,
+      "status": "active"
+    },
+    {
+      "repository": "oxgeneral/orch",
+      "date": "2026-10-04",
       "stars": 167,
       "status": "active"
     },
@@ -2527,6 +3709,12 @@
       "status": "active"
     },
     {
+      "repository": "panniantong/agent-reach",
+      "date": "2026-10-04",
+      "stars": 90060,
+      "status": "active"
+    },
+    {
       "repository": "paperandbeyond23-gif/edgrapi-skills",
       "date": "2026-09-25",
       "stars": 0,
@@ -2535,6 +3723,12 @@
     {
       "repository": "paperandbeyond23-gif/edgrapi-skills",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "paperandbeyond23-gif/edgrapi-skills",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -2551,9 +3745,21 @@
       "status": "active"
     },
     {
+      "repository": "parkain707/nexus-agent",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "personaljarvis/personaljarvis",
       "date": "2026-09-30",
       "stars": 76,
+      "status": "active"
+    },
+    {
+      "repository": "personaljarvis/personaljarvis",
+      "date": "2026-10-04",
+      "stars": 94,
       "status": "active"
     },
     {
@@ -2569,6 +3775,12 @@
       "status": "active"
     },
     {
+      "repository": "phodal/auto-dev",
+      "date": "2026-10-04",
+      "stars": 4552,
+      "status": "active"
+    },
+    {
       "repository": "pilot-protocol/pilotprotocol",
       "date": "2026-09-25",
       "stars": 140,
@@ -2581,6 +3793,18 @@
       "status": "active"
     },
     {
+      "repository": "pilot-protocol/pilotprotocol",
+      "date": "2026-10-04",
+      "stars": 146,
+      "status": "active"
+    },
+    {
+      "repository": "posteverywhere/mcp",
+      "date": "2026-10-04",
+      "stars": 4,
+      "status": "active"
+    },
+    {
       "repository": "pramoddutta/browserbash",
       "date": "2026-09-25",
       "stars": 2,
@@ -2589,6 +3813,12 @@
     {
       "repository": "pramoddutta/browserbash",
       "date": "2026-09-30",
+      "stars": 3,
+      "status": "active"
+    },
+    {
+      "repository": "pramoddutta/browserbash",
+      "date": "2026-10-04",
       "stars": 3,
       "status": "active"
     },
@@ -2605,6 +3835,18 @@
       "status": "active"
     },
     {
+      "repository": "prefecthq/marvin",
+      "date": "2026-10-04",
+      "stars": 6204,
+      "status": "active"
+    },
+    {
+      "repository": "priors-agents/agent001",
+      "date": "2026-10-04",
+      "stars": 0,
+      "status": "active"
+    },
+    {
       "repository": "prismer-ai/k8s4claw",
       "date": "2026-09-25",
       "stars": 9,
@@ -2613,6 +3855,12 @@
     {
       "repository": "prismer-ai/k8s4claw",
       "date": "2026-09-30",
+      "stars": 10,
+      "status": "active"
+    },
+    {
+      "repository": "prismer-ai/k8s4claw",
+      "date": "2026-10-04",
       "stars": 10,
       "status": "active"
     },
@@ -2629,6 +3877,12 @@
       "status": "active"
     },
     {
+      "repository": "prismfy/prismfy-wizard",
+      "date": "2026-10-04",
+      "stars": 3,
+      "status": "active"
+    },
+    {
       "repository": "promptise-com/foundry",
       "date": "2026-09-25",
       "stars": 871,
@@ -2641,6 +3895,12 @@
       "status": "active"
     },
     {
+      "repository": "promptise-com/foundry",
+      "date": "2026-10-04",
+      "stars": 872,
+      "status": "active"
+    },
+    {
       "repository": "promtengineer/localgpt",
       "date": "2026-09-25",
       "stars": 22197,
@@ -2650,6 +3910,12 @@
       "repository": "promtengineer/localgpt",
       "date": "2026-09-30",
       "stars": 22197,
+      "status": "active"
+    },
+    {
+      "repository": "promtengineer/localgpt",
+      "date": "2026-10-04",
+      "stars": 22194,
       "status": "active"
     },
     {
@@ -2665,6 +3931,12 @@
       "status": "active"
     },
     {
+      "repository": "pungme/superagent-desktop",
+      "date": "2026-10-04",
+      "stars": 29,
+      "status": "active"
+    },
+    {
       "repository": "pydantic/pydantic",
       "date": "2026-09-25",
       "stars": 28875,
@@ -2674,6 +3946,12 @@
       "repository": "pydantic/pydantic",
       "date": "2026-09-30",
       "stars": 28909,
+      "status": "active"
+    },
+    {
+      "repository": "pydantic/pydantic",
+      "date": "2026-10-04",
+      "stars": 28935,
       "status": "active"
     },
     {
@@ -2689,6 +3967,12 @@
       "status": "active"
     },
     {
+      "repository": "pythagora-io/gpt-pilot",
+      "date": "2026-10-04",
+      "stars": 33659,
+      "status": "active"
+    },
+    {
       "repository": "rafsilva85/skillflow-mcp-server",
       "date": "2026-09-25",
       "stars": 1,
@@ -2697,6 +3981,12 @@
     {
       "repository": "rafsilva85/skillflow-mcp-server",
       "date": "2026-09-30",
+      "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "rafsilva85/skillflow-mcp-server",
+      "date": "2026-10-04",
       "stars": 2,
       "status": "active"
     },
@@ -2713,9 +4003,21 @@
       "status": "active"
     },
     {
+      "repository": "ramarlina/agx",
+      "date": "2026-10-04",
+      "stars": 30,
+      "status": "active"
+    },
+    {
       "repository": "regnull/openbot",
       "date": "2026-09-30",
       "stars": 25,
+      "status": "active"
+    },
+    {
+      "repository": "regnull/openbot",
+      "date": "2026-10-04",
+      "stars": 27,
       "status": "active"
     },
     {
@@ -2728,6 +4030,12 @@
       "repository": "remembra-ai/remembra",
       "date": "2026-09-30",
       "stars": 15,
+      "status": "active"
+    },
+    {
+      "repository": "remembra-ai/remembra",
+      "date": "2026-10-04",
+      "stars": 16,
       "status": "active"
     },
     {
@@ -2743,6 +4051,12 @@
       "status": "active"
     },
     {
+      "repository": "run-llama/llama_index",
+      "date": "2026-10-04",
+      "stars": 52404,
+      "status": "active"
+    },
+    {
       "repository": "runcycles/cycles-server",
       "date": "2026-09-25",
       "stars": 4,
@@ -2751,6 +4065,12 @@
     {
       "repository": "runcycles/cycles-server",
       "date": "2026-09-30",
+      "stars": 5,
+      "status": "active"
+    },
+    {
+      "repository": "runcycles/cycles-server",
+      "date": "2026-10-04",
       "stars": 5,
       "status": "active"
     },
@@ -2767,12 +4087,24 @@
       "status": "active"
     },
     {
+      "repository": "runmaestro/maestro",
+      "date": "2026-10-04",
+      "stars": 3405,
+      "status": "active"
+    },
+    {
       "repository": "rusharlabs/house-party-protocol",
       "date": "2026-09-30",
       "stars": 2,
       "status": "active"
     },
     {
+      "repository": "rusharlabs/house-party-protocol",
+      "date": "2026-10-04",
+      "stars": 5,
+      "status": "active"
+    },
+    {
       "repository": "sabir-gbs/the-polyglot-protocol",
       "date": "2026-09-25",
       "stars": 19,
@@ -2785,6 +4117,12 @@
       "status": "active"
     },
     {
+      "repository": "sabir-gbs/the-polyglot-protocol",
+      "date": "2026-10-04",
+      "stars": 20,
+      "status": "active"
+    },
+    {
       "repository": "sagentic-ai/sagentic-af",
       "date": "2026-09-25",
       "stars": 78,
@@ -2794,6 +4132,12 @@
       "repository": "sagentic-ai/sagentic-af",
       "date": "2026-09-30",
       "stars": 78,
+      "status": "active"
+    },
+    {
+      "repository": "sagentic-ai/sagentic-af",
+      "date": "2026-10-04",
+      "stars": 79,
       "status": "active"
     },
     {
@@ -2809,6 +4153,12 @@
       "status": "active"
     },
     {
+      "repository": "sagiyaacoby/teamhero",
+      "date": "2026-10-04",
+      "stars": 38,
+      "status": "active"
+    },
+    {
       "repository": "samirasadov28-code/polymind",
       "date": "2026-09-25",
       "stars": 2,
@@ -2821,6 +4171,12 @@
       "status": "active"
     },
     {
+      "repository": "samirasadov28-code/polymind",
+      "date": "2026-10-04",
+      "stars": 3,
+      "status": "active"
+    },
+    {
       "repository": "samirasadov28-code/storyroute",
       "date": "2026-09-25",
       "stars": 0,
@@ -2829,6 +4185,12 @@
     {
       "repository": "samirasadov28-code/storyroute",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "samirasadov28-code/storyroute",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -2845,6 +4207,18 @@
       "status": "active"
     },
     {
+      "repository": "sandbaseai/sandbase-harness",
+      "date": "2026-10-04",
+      "stars": 681,
+      "status": "active"
+    },
+    {
+      "repository": "satohubai/sato-hub-skill",
+      "date": "2026-10-04",
+      "stars": 1,
+      "status": "active"
+    },
+    {
       "repository": "saynaai/sayna",
       "date": "2026-09-25",
       "stars": 314,
@@ -2854,6 +4228,12 @@
       "repository": "saynaai/sayna",
       "date": "2026-09-30",
       "stars": 315,
+      "status": "active"
+    },
+    {
+      "repository": "saynaai/sayna",
+      "date": "2026-10-04",
+      "stars": 314,
       "status": "active"
     },
     {
@@ -2869,6 +4249,12 @@
       "status": "active"
     },
     {
+      "repository": "screenpipe/screenpipe",
+      "date": "2026-10-04",
+      "stars": 21806,
+      "status": "active"
+    },
+    {
       "repository": "shleder/vetto",
       "date": "2026-09-25",
       "stars": 30,
@@ -2881,6 +4267,12 @@
       "status": "active"
     },
     {
+      "repository": "shleder/vetto",
+      "date": "2026-10-04",
+      "stars": 44,
+      "status": "active"
+    },
+    {
       "repository": "sidclawhq/platform",
       "date": "2026-09-25",
       "stars": 14,
@@ -2889,6 +4281,12 @@
     {
       "repository": "sidclawhq/platform",
       "date": "2026-09-30",
+      "stars": 15,
+      "status": "active"
+    },
+    {
+      "repository": "sidclawhq/platform",
+      "date": "2026-10-04",
       "stars": 15,
       "status": "active"
     },
@@ -2905,6 +4303,12 @@
       "status": "active"
     },
     {
+      "repository": "significant-gravitas/autogpt",
+      "date": "2026-10-04",
+      "stars": 187644,
+      "status": "active"
+    },
+    {
       "repository": "simin-yuan/self-auditing-agent",
       "date": "2026-09-25",
       "stars": 2,
@@ -2914,6 +4318,18 @@
       "repository": "simin-yuan/self-auditing-agent",
       "date": "2026-09-30",
       "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "simin-yuan/self-auditing-agent",
+      "date": "2026-10-04",
+      "stars": 3,
+      "status": "active"
+    },
+    {
+      "repository": "skeptrunedev/call4me",
+      "date": "2026-10-04",
+      "stars": 3,
       "status": "active"
     },
     {
@@ -2929,6 +4345,12 @@
       "status": "active"
     },
     {
+      "repository": "sksareen/smartipedia",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "skullfire07/cortex-memory",
       "date": "2026-09-25",
       "stars": 8,
@@ -2941,6 +4363,18 @@
       "status": "active"
     },
     {
+      "repository": "skullfire07/cortex-memory",
+      "date": "2026-10-04",
+      "stars": 9,
+      "status": "active"
+    },
+    {
+      "repository": "skyvern-ai/skyvern",
+      "date": "2026-10-04",
+      "stars": 23132,
+      "status": "active"
+    },
+    {
       "repository": "smartcomputer-ai/agent-os",
       "date": "2026-09-25",
       "stars": 212,
@@ -2950,6 +4384,12 @@
       "repository": "smartcomputer-ai/agent-os",
       "date": "2026-09-30",
       "stars": 212,
+      "status": "active"
+    },
+    {
+      "repository": "smartcomputer-ai/agent-os",
+      "date": "2026-10-04",
+      "stars": 232,
       "status": "active"
     },
     {
@@ -2965,6 +4405,12 @@
       "status": "active"
     },
     {
+      "repository": "socai-io/jev-social",
+      "date": "2026-10-04",
+      "stars": 144,
+      "status": "active"
+    },
+    {
       "repository": "socialrobot-io/agent-kit",
       "date": "2026-09-25",
       "stars": 4,
@@ -2977,9 +4423,21 @@
       "status": "active"
     },
     {
+      "repository": "socialrobot-io/agent-kit",
+      "date": "2026-10-04",
+      "stars": 5,
+      "status": "active"
+    },
+    {
       "repository": "solveathome/platform",
       "date": "2026-09-30",
       "stars": 3,
+      "status": "active"
+    },
+    {
+      "repository": "solveathome/platform",
+      "date": "2026-10-04",
+      "stars": 5,
       "status": "active"
     },
     {
@@ -2991,6 +4449,12 @@
     {
       "repository": "sonz-ai/sonzai-go",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "sonz-ai/sonzai-go",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -3007,6 +4471,12 @@
       "status": "active"
     },
     {
+      "repository": "sortlist/max-cli",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "sortlist/overloop-cli",
       "date": "2026-09-25",
       "stars": 7,
@@ -3015,6 +4485,12 @@
     {
       "repository": "sortlist/overloop-cli",
       "date": "2026-09-30",
+      "stars": 8,
+      "status": "active"
+    },
+    {
+      "repository": "sortlist/overloop-cli",
+      "date": "2026-10-04",
       "stars": 8,
       "status": "active"
     },
@@ -3031,6 +4507,12 @@
       "status": "active"
     },
     {
+      "repository": "stanfordnlp/dspy",
+      "date": "2026-10-04",
+      "stars": 38491,
+      "status": "active"
+    },
+    {
       "repository": "statelyai/agent",
       "date": "2026-09-25",
       "stars": 464,
@@ -3040,6 +4522,12 @@
       "repository": "statelyai/agent",
       "date": "2026-09-30",
       "stars": 469,
+      "status": "active"
+    },
+    {
+      "repository": "statelyai/agent",
+      "date": "2026-10-04",
+      "stars": 473,
       "status": "active"
     },
     {
@@ -3055,6 +4543,12 @@
       "status": "active"
     },
     {
+      "repository": "steel-dev/steel-browser",
+      "date": "2026-10-04",
+      "stars": 7733,
+      "status": "active"
+    },
+    {
       "repository": "stipend-sh/stipend",
       "date": "2026-09-25",
       "stars": 0,
@@ -3063,6 +4557,12 @@
     {
       "repository": "stipend-sh/stipend",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "stipend-sh/stipend",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -3079,6 +4579,12 @@
       "status": "active"
     },
     {
+      "repository": "stoneforge-ai/stoneforge",
+      "date": "2026-10-04",
+      "stars": 190,
+      "status": "active"
+    },
+    {
       "repository": "strands-agents/harness-sdk",
       "date": "2026-09-25",
       "stars": 8414,
@@ -3091,6 +4597,12 @@
       "status": "active"
     },
     {
+      "repository": "strands-agents/harness-sdk",
+      "date": "2026-10-04",
+      "stars": 8647,
+      "status": "active"
+    },
+    {
       "repository": "strategic-automation/arachne",
       "date": "2026-09-25",
       "stars": 10,
@@ -3103,9 +4615,21 @@
       "status": "active"
     },
     {
+      "repository": "strategic-automation/arachne",
+      "date": "2026-10-04",
+      "stars": 11,
+      "status": "active"
+    },
+    {
       "repository": "sunglasses-dev/sunglasses",
       "date": "2026-09-30",
       "stars": 8,
+      "status": "active"
+    },
+    {
+      "repository": "sunglasses-dev/sunglasses",
+      "date": "2026-10-04",
+      "stars": 9,
       "status": "active"
     },
     {
@@ -3121,6 +4645,12 @@
       "status": "active"
     },
     {
+      "repository": "superagent-ai/superagent",
+      "date": "2026-10-04",
+      "stars": 6765,
+      "status": "active"
+    },
+    {
       "repository": "swe-agent/swe-agent",
       "date": "2026-09-25",
       "stars": 20407,
@@ -3130,6 +4660,12 @@
       "repository": "swe-agent/swe-agent",
       "date": "2026-09-30",
       "stars": 20450,
+      "status": "active"
+    },
+    {
+      "repository": "swe-agent/swe-agent",
+      "date": "2026-10-04",
+      "stars": 20484,
       "status": "active"
     },
     {
@@ -3145,6 +4681,12 @@
       "status": "active"
     },
     {
+      "repository": "synergenius-fw/flow-weaver",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "tabbyml/tabby",
       "date": "2026-09-25",
       "stars": 33893,
@@ -3154,6 +4696,18 @@
       "repository": "tabbyml/tabby",
       "date": "2026-09-30",
       "stars": 33887,
+      "status": "active"
+    },
+    {
+      "repository": "tabbyml/tabby",
+      "date": "2026-10-04",
+      "stars": 33893,
+      "status": "active"
+    },
+    {
+      "repository": "tale-project/tale",
+      "date": "2026-10-04",
+      "stars": 29,
       "status": "active"
     },
     {
@@ -3169,6 +4723,12 @@
       "status": "active"
     },
     {
+      "repository": "taskade/taskade",
+      "date": "2026-10-04",
+      "stars": 66,
+      "status": "active"
+    },
+    {
       "repository": "terminallylazy/tree-ring-memory",
       "date": "2026-09-25",
       "stars": 18,
@@ -3177,6 +4737,12 @@
     {
       "repository": "terminallylazy/tree-ring-memory",
       "date": "2026-09-30",
+      "stars": 18,
+      "status": "active"
+    },
+    {
+      "repository": "terminallylazy/tree-ring-memory",
+      "date": "2026-10-04",
       "stars": 18,
       "status": "active"
     },
@@ -3193,6 +4759,12 @@
       "status": "active"
     },
     {
+      "repository": "the-context-company/observatory",
+      "date": "2026-10-04",
+      "stars": 124,
+      "status": "active"
+    },
+    {
       "repository": "the-open-agent/openagent",
       "date": "2026-09-25",
       "stars": 5654,
@@ -3202,6 +4774,24 @@
       "repository": "the-open-agent/openagent",
       "date": "2026-09-30",
       "stars": 5671,
+      "status": "active"
+    },
+    {
+      "repository": "the-open-agent/openagent",
+      "date": "2026-10-04",
+      "stars": 5687,
+      "status": "active"
+    },
+    {
+      "repository": "thenamek/kith",
+      "date": "2026-10-04",
+      "stars": 0,
+      "status": "active"
+    },
+    {
+      "repository": "thenaxon/somora_agent",
+      "date": "2026-10-04",
+      "stars": 29,
       "status": "active"
     },
     {
@@ -3217,6 +4807,12 @@
       "status": "active"
     },
     {
+      "repository": "tiger-ai-lab/clawbench",
+      "date": "2026-10-04",
+      "stars": 932,
+      "status": "active"
+    },
+    {
       "repository": "topoteretes/cognee",
       "date": "2026-09-25",
       "stars": 30985,
@@ -3229,6 +4825,12 @@
       "status": "active"
     },
     {
+      "repository": "topoteretes/cognee",
+      "date": "2026-10-04",
+      "stars": 31338,
+      "status": "active"
+    },
+    {
       "repository": "trevhud/rote",
       "date": "2026-09-25",
       "stars": 7,
@@ -3237,6 +4839,12 @@
     {
       "repository": "trevhud/rote",
       "date": "2026-09-30",
+      "stars": 8,
+      "status": "active"
+    },
+    {
+      "repository": "trevhud/rote",
+      "date": "2026-10-04",
       "stars": 8,
       "status": "active"
     },
@@ -3253,6 +4861,12 @@
       "status": "active"
     },
     {
+      "repository": "uizze/uizze",
+      "date": "2026-10-04",
+      "stars": 38,
+      "status": "active"
+    },
+    {
       "repository": "unclecode/crawl4ai",
       "date": "2026-09-25",
       "stars": 84265,
@@ -3265,9 +4879,21 @@
       "status": "active"
     },
     {
+      "repository": "unclecode/crawl4ai",
+      "date": "2026-10-04",
+      "stars": 84721,
+      "status": "active"
+    },
+    {
       "repository": "upload-post/upload-post-mcp",
       "date": "2026-09-30",
       "stars": 8,
+      "status": "active"
+    },
+    {
+      "repository": "upload-post/upload-post-mcp",
+      "date": "2026-10-04",
+      "stars": 9,
       "status": "active"
     },
     {
@@ -3280,6 +4906,12 @@
       "repository": "upsonic/upsonic",
       "date": "2026-09-30",
       "stars": 7957,
+      "status": "active"
+    },
+    {
+      "repository": "upsonic/upsonic",
+      "date": "2026-10-04",
+      "stars": 7956,
       "status": "active"
     },
     {
@@ -3295,6 +4927,12 @@
       "status": "active"
     },
     {
+      "repository": "upstash/context7",
+      "date": "2026-10-04",
+      "stars": 62651,
+      "status": "active"
+    },
+    {
       "repository": "usemoss/moss",
       "date": "2026-09-25",
       "stars": 681,
@@ -3304,6 +4942,12 @@
       "repository": "usemoss/moss",
       "date": "2026-09-30",
       "stars": 790,
+      "status": "active"
+    },
+    {
+      "repository": "usemoss/moss",
+      "date": "2026-10-04",
+      "stars": 789,
       "status": "active"
     },
     {
@@ -3319,6 +4963,18 @@
       "status": "active"
     },
     {
+      "repository": "user0856/snaprender-integrations",
+      "date": "2026-10-04",
+      "stars": 3,
+      "status": "active"
+    },
+    {
+      "repository": "vakandi/eliaagent",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "vbkotecha/agentservices-api",
       "date": "2026-09-25",
       "stars": 1,
@@ -3327,6 +4983,12 @@
     {
       "repository": "vbkotecha/agentservices-api",
       "date": "2026-09-30",
+      "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "vbkotecha/agentservices-api",
+      "date": "2026-10-04",
       "stars": 2,
       "status": "active"
     },
@@ -3343,6 +5005,12 @@
       "status": "active"
     },
     {
+      "repository": "vedankpurohit/liverecall",
+      "date": "2026-10-04",
+      "stars": 166,
+      "status": "active"
+    },
+    {
       "repository": "venkat22022202/black-vault",
       "date": "2026-09-25",
       "stars": 8,
@@ -3351,6 +5019,12 @@
     {
       "repository": "venkat22022202/black-vault",
       "date": "2026-09-30",
+      "stars": 9,
+      "status": "active"
+    },
+    {
+      "repository": "venkat22022202/black-vault",
+      "date": "2026-10-04",
       "stars": 9,
       "status": "active"
     },
@@ -3367,6 +5041,12 @@
       "status": "active"
     },
     {
+      "repository": "vercel/ai",
+      "date": "2026-10-04",
+      "stars": 27107,
+      "status": "active"
+    },
+    {
       "repository": "vinaybhosle/agentstamp",
       "date": "2026-09-25",
       "stars": 1,
@@ -3379,6 +5059,12 @@
       "status": "active"
     },
     {
+      "repository": "vinaybhosle/agentstamp",
+      "date": "2026-10-04",
+      "stars": 2,
+      "status": "active"
+    },
+    {
       "repository": "virt92/agentfix-oss-scanner",
       "date": "2026-09-25",
       "stars": 1,
@@ -3387,6 +5073,12 @@
     {
       "repository": "virt92/agentfix-oss-scanner",
       "date": "2026-09-30",
+      "stars": 2,
+      "status": "active"
+    },
+    {
+      "repository": "virt92/agentfix-oss-scanner",
+      "date": "2026-10-04",
       "stars": 2,
       "status": "active"
     },
@@ -3403,6 +5095,12 @@
       "status": "active"
     },
     {
+      "repository": "vivekchand/clawmetry",
+      "date": "2026-10-04",
+      "stars": 424,
+      "status": "active"
+    },
+    {
       "repository": "vostride/agent-qa",
       "date": "2026-09-25",
       "stars": 887,
@@ -3412,6 +5110,12 @@
       "repository": "vostride/agent-qa",
       "date": "2026-09-30",
       "stars": 892,
+      "status": "active"
+    },
+    {
+      "repository": "vostride/agent-qa",
+      "date": "2026-10-04",
+      "stars": 897,
       "status": "active"
     },
     {
@@ -3427,6 +5131,12 @@
       "status": "active"
     },
     {
+      "repository": "vrsen/agency-swarm",
+      "date": "2026-10-04",
+      "stars": 4590,
+      "status": "active"
+    },
+    {
       "repository": "writbase/writbase",
       "date": "2026-09-25",
       "stars": 10,
@@ -3435,6 +5145,12 @@
     {
       "repository": "writbase/writbase",
       "date": "2026-09-30",
+      "stars": 11,
+      "status": "active"
+    },
+    {
+      "repository": "writbase/writbase",
+      "date": "2026-10-04",
       "stars": 11,
       "status": "active"
     },
@@ -3451,6 +5167,12 @@
       "status": "active"
     },
     {
+      "repository": "x-zheng16/awesome-embodied-ai-safety",
+      "date": "2026-10-04",
+      "stars": 151,
+      "status": "active"
+    },
+    {
       "repository": "xmacna/funcionario-digital-agentget",
       "date": "2026-09-25",
       "stars": 0,
@@ -3459,6 +5181,12 @@
     {
       "repository": "xmacna/funcionario-digital-agentget",
       "date": "2026-09-30",
+      "stars": 1,
+      "status": "active"
+    },
+    {
+      "repository": "xmacna/funcionario-digital-agentget",
+      "date": "2026-10-04",
       "stars": 1,
       "status": "active"
     },
@@ -3475,9 +5203,21 @@
       "status": "active"
     },
     {
+      "repository": "yagobski/agentleak",
+      "date": "2026-10-04",
+      "stars": 10,
+      "status": "active"
+    },
+    {
       "repository": "yanauto/opus-manager",
       "date": "2026-09-30",
       "stars": 43,
+      "status": "active"
+    },
+    {
+      "repository": "yanauto/opus-manager",
+      "date": "2026-10-04",
+      "stars": 46,
       "status": "active"
     },
     {
@@ -3493,9 +5233,21 @@
       "status": "active"
     },
     {
+      "repository": "yanghao1143/rust-norion",
+      "date": "2026-10-04",
+      "stars": 19,
+      "status": "active"
+    },
+    {
       "repository": "yoanwai/agent-manager",
       "date": "2026-09-30",
       "stars": 545,
+      "status": "active"
+    },
+    {
+      "repository": "yoanwai/agent-manager",
+      "date": "2026-10-04",
+      "stars": 564,
       "status": "active"
     },
     {
@@ -3507,6 +5259,12 @@
     {
       "repository": "yugantm/hvtracker",
       "date": "2026-09-30",
+      "stars": 6,
+      "status": "active"
+    },
+    {
+      "repository": "yugantm/hvtracker",
+      "date": "2026-10-04",
       "stars": 6,
       "status": "active"
     },
@@ -3523,6 +5281,12 @@
       "status": "active"
     },
     {
+      "repository": "zapier/sdk",
+      "date": "2026-10-04",
+      "stars": 260,
+      "status": "active"
+    },
+    {
       "repository": "zenml-io/kitaru",
       "date": "2026-09-25",
       "stars": 295,
@@ -3532,6 +5296,12 @@
       "repository": "zenml-io/kitaru",
       "date": "2026-09-30",
       "stars": 299,
+      "status": "active"
+    },
+    {
+      "repository": "zenml-io/kitaru",
+      "date": "2026-10-04",
+      "stars": 300,
       "status": "active"
     },
     {
@@ -3547,6 +5317,12 @@
       "status": "active"
     },
     {
+      "repository": "zeropointrepo/youtube-skills",
+      "date": "2026-10-04",
+      "stars": 1004,
+      "status": "active"
+    },
+    {
       "repository": "zeropointrepo/zillow-skills",
       "date": "2026-09-25",
       "stars": 6,
@@ -3555,6 +5331,12 @@
     {
       "repository": "zeropointrepo/zillow-skills",
       "date": "2026-09-30",
+      "stars": 7,
+      "status": "active"
+    },
+    {
+      "repository": "zeropointrepo/zillow-skills",
+      "date": "2026-10-04",
       "stars": 7,
       "status": "active"
     },
@@ -3571,6 +5353,12 @@
       "status": "active"
     },
     {
+      "repository": "zfinix/aster",
+      "date": "2026-10-04",
+      "stars": 107,
+      "status": "active"
+    },
+    {
       "repository": "ziwayzhao/agent-coworker",
       "date": "2026-09-25",
       "stars": 20,
@@ -3579,6 +5367,12 @@
     {
       "repository": "ziwayzhao/agent-coworker",
       "date": "2026-09-30",
+      "stars": 21,
+      "status": "active"
+    },
+    {
+      "repository": "ziwayzhao/agent-coworker",
+      "date": "2026-10-04",
       "stars": 21,
       "status": "active"
     },
@@ -3595,6 +5389,12 @@
       "status": "active"
     },
     {
+      "repository": "zoharbabin/due-diligence-agents",
+      "date": "2026-10-04",
+      "stars": 115,
+      "status": "active"
+    },
+    {
       "repository": "zooid-ai/zooid",
       "date": "2026-09-25",
       "stars": 58,
@@ -3607,6 +5407,12 @@
       "status": "active"
     },
     {
+      "repository": "zooid-ai/zooid",
+      "date": "2026-10-04",
+      "stars": 62,
+      "status": "active"
+    },
+    {
       "repository": "zylon-ai/private-gpt",
       "date": "2026-09-25",
       "stars": 57538,
@@ -3616,6 +5422,12 @@
       "repository": "zylon-ai/private-gpt",
       "date": "2026-09-30",
       "stars": 57553,
+      "status": "active"
+    },
+    {
+      "repository": "zylon-ai/private-gpt",
+      "date": "2026-10-04",
+      "stars": 57557,
       "status": "active"
     }
   ]
